@@ -15,7 +15,7 @@ images:
 
 configMapGenerator:
 - literals:
-  - GITHUB_ORG=""
+  - GITHUB_ORG="dwinchell"
   name: github-config
   behavior: replace
 
